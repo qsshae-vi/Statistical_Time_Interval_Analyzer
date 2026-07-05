@@ -1,0 +1,25 @@
+# LabVIEW backup/autosave files
+*.bak
+*.autosave
+*.tmp
+
+# LabVIEW local project settings
+*.aliases
+*.lvlps
+
+# Build outputs
+build/
+Builds/
+dist/
+output/
+installer/
+installers/
+
+# Executables and installers
+*.exe
+*.msi
+*.zip
+
+# Windows
+Thumbs.db
+Desktop.ini
